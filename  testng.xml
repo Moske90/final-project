@@ -1,0 +1,10 @@
+<suite name="FinalProject" verbose="1" >
+  <test name="ExecuteAllTests" >
+    <classes>
+       <class name="tests.BasicTest" />
+       <class name="tests.MealItemTest" />
+       <class name="tests.ProfileTest" />
+       <class name="tests.SearchTest" />
+    </classes>
+  </test>
+</suite>
